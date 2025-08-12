@@ -28,3 +28,8 @@ The goal was to design and develop a responsive, fast, and SEO-friendly business
 ## Project Link
 [Live Website](https://zenithdigitallabs.com)
 
+![Home](assets/Home.png)
+![Expertise](assets/Expertise.png)
+![Mobile](assets/Mobile.png)
+
+
