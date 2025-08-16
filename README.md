@@ -26,6 +26,7 @@ The goal was to design and develop a fast, SEO-friendly business website for a d
 
 ## ⚡ Challenges & Solutions  
 **Challenge:** Handling a large number of services with unique FAQs without cluttering the main page.  
+
 **Solution:** Implemented **tabbed service sections** and a dedicated FAQ layout to keep the site structured, user-friendly, and SEO-optimized.  
 
 ## 🔗 Live Project  
